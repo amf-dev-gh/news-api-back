@@ -15,7 +15,7 @@ import com.andres.news_api.services.NewsService;
 
 @RestController
 @RequestMapping("/api/news")
-@CrossOrigin(value = "http://localhost:4200")
+@CrossOrigin(value = "*")
 public class NewsController {
 
 	@Autowired
