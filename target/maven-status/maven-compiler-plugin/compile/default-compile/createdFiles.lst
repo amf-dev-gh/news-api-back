@@ -1,0 +1,6 @@
+com\andres\news_api\dtos\NewsDTO.class
+com\andres\news_api\controllers\NewsController.class
+com\andres\news_api\NewsApiApplication.class
+com\andres\news_api\services\NewsServiceImpl.class
+com\andres\news_api\configurations\OpenAiConfig.class
+com\andres\news_api\services\NewsService.class
